@@ -1,0 +1,6 @@
+CREATE table aanilevy(id Integer,
+nimi varchar(30),
+
+tekija varchar(50),
+
+primary key (id))
