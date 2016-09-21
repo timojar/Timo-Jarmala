@@ -1,24 +1,24 @@
 
-insert into  aanilevy (id, nimi, tekija) values (1, 'Git-luento osa 1' , 'Timo Jarmala');
+insert into  Aanilevy (id, nimi, tekija) values (1, 'Git-luento osa 1' , 'Timo Jarmala');
 
 
-insert into  aanilevy (id, nimi, tekija) values (2, 'Rap batle' , 'Asa Masa');
-
-
-
-insert into  aanilevy (id, nimi, tekija) values (3, 'Ruuan laitto' , 'Jaska Jpokunen');
-
-
-insert into  aanilevy (id, nimi, tekija) values (4, 'Microsoft' , 'Bil Gates');
+insert into  Aanilevy (id, nimi, tekija) values (2, 'Rap batle' , 'Asa Masa');
 
 
 
-insert into  aanilevy (id, nimi, tekija) values (5, 'Yrityinnovaatio' , 'Hjallis Harkimo');
+insert into  Aanilevy (id, nimi, tekija) values (3, 'Ruuan laitto' , 'Jaska Jpokunen');
+
+
+insert into  Aanilevy (id, nimi, tekija) values (4, 'Microsoft' , 'Bil Gates');
 
 
 
-insert into  aanilevy (id, nimi, tekija) values
+insert into  Aanilevy (id, nimi, tekija) values (5, 'Yrityinnovaatio' , 'Hjallis Harkimo');
+
+
+
+insert into  Aanilevy (id, nimi, tekija) values
  (6, 'Git-luento osa 2' , 'Timo Jarmala');
 
 
-insert into  aanilevy (id, nimi, tekija) values (7, 'Git-luento osa 3' , 'Timo Jarmala');
+insert into  Aanilevy (id, nimi, tekija) values (7, 'Git-luento osa 3' , 'Timo Jarmala');

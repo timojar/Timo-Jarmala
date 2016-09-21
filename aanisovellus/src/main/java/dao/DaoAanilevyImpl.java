@@ -37,7 +37,7 @@ public void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
 
 	public List<Aanilevy> haeKaikki() {
 		
-		String sql="Select * from Aanilevy";
+		String sql="select * from Aanilevy";  
 		RowMapper<Aanilevy> mapper=new AanilevyRowMapper();
 		List<Aanilevy> aanilevyt = jdbcTemplate.query(sql, mapper);
 

@@ -1,4 +1,4 @@
-CREATE table aanilevy(id Integer,
+CREATE table Aanilevy(id Integer,
 nimi varchar(30),
 
 tekija varchar(50),
